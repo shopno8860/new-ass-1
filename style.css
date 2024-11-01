@@ -74,8 +74,9 @@ header{
 }
 
 main>.container{
-    height: 1150px;
-    background-color: ghostwhite;
+    /* height: 1117px; */
+    
+    margin-bottom: 50px;
 }
 .text-color{
     color: black;
@@ -119,6 +120,58 @@ main>.container{
 }
 .w-width{
     width: 60%;
+}
+.inspiration{
+    margin-bottom: 30px;
+    width: 60%;
+}
+.jhankar-vai{
+    border: 1px solid gray;
+    height: 430px;
+    width: 90%;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-bottom: 50px;
+}
+.m-bottom{
+    margin-bottom: 20px;
+}
+.d-text{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.css{
+    padding: 2%;
+    display: flex;
+
+}
+.html{
+    width: 30%;
+    margin-left: 25px;
+    
+    
+}
+.html a{
+    text-decoration: none;
+}
+.b-html{
+    border-radius: 16px;
+    padding: 25px;
+background: rgba(255, 76, 30, 0.05);
+}
+.c-html{
+    border-radius: 16px;
+    padding: 25px;
+background: rgba(0, 76, 232, 0.05);
+}
+.j-html{
+    border-radius: 16px;
+    padding: 25px;
+background: rgba(255, 223, 0, 0.05);
+}
+.bg{
+    background: rgb(240, 239, 239);
 }
 
 
