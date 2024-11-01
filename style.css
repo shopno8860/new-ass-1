@@ -173,5 +173,34 @@ background: rgba(255, 223, 0, 0.05);
 .bg{
     background: rgb(240, 239, 239);
 }
-
+.inp{
+    padding: 10px 25px;
+    width: 40%;
+    border: 1px solid gray;
+    border-radius: 8px;
+}
+.submit{
+    padding:9.5px 20px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+.handshake{
+    height: 300px;
+    width: 90%;
+    background: linear-gradient(180deg, #101011 0%, rgba(7, 2, 17, 0.00) 100%), 
+                url(assets/handshake.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #f1eff6;
+    
+    
+}
+.a-width{
+    width: 90%;
+}
 
