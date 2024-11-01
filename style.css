@@ -5,7 +5,7 @@
 }
 .head{
     width: 100%;
-    height: 700px;
+    height: 350px;
    
 }
 nav{
@@ -69,3 +69,56 @@ button{
 header{
     margin-bottom: 30px;
 }
+.padding{
+    padding: 20px;
+}
+
+main>.container{
+    height: 1150px;
+    background-color: ghostwhite;
+}
+.text-color{
+    color: black;
+    
+}
+.font{
+    font-size: 13px;
+}
+.margin{
+    margin:0 auto;
+}
+.developer{
+    width: 90%;
+}
+.align{
+    text-align: center;
+}
+.f-left{
+    float:left;
+    width: 50%;
+}
+.f-right{
+    float: right;
+    width: 50%;
+}
+.m-content{
+    height:300px;
+    background-color: white;
+    padding: 30px 50PX;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+.img-w{
+    width: 250px;
+    height: 200px;
+
+    
+}
+.right{
+    text-align: right; 
+}
+.w-width{
+    width: 60%;
+}
+
+
