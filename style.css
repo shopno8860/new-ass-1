@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.head{
+    width: 100%;
+    height: 700px;
+   
+}
+nav{
+    height: 50px;
+    /* background-color:whitesmoke; */
+}
+.container{
+    width:90%;
+    margin: 0 auto;
+    padding: 1px 15px;
+    line-height: 50px;
+}
+.c-left{
+    float: left;
+}
+.c-right{
+    float: right;
+}
+button{
+    border: 1px solid black;
+    padding: 8px 15px;
+    border-radius: 4px;
+    background: white;
+}
+.h-content{
+    background-image:linear-gradient(45deg, #f1eff6 0%, rgba(7, 2, 17, 0.00) 100%), url(assets/Hero-bg.png);
+    height: 300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+   
+   
+   
+}
+.h-content .item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 60%;
+    margin: 0 auto;
+    padding-top: 20px;
+    text-align: center;
+    gap: 15px;
+    
+}
+.item img{
+    width: 40%;
+}
+.black{
+    background: black;
+    color: white;
+}
+.h-content .item p{
+    color:gray;
+    font-size: 10px;
+}
+.h-content .item h1{
+    font-size: 30px;
+}
+header{
+    margin-bottom: 30px;
+}
