@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    f font-family: "Azeret Mono", monospace;
 }
 .head{
     width: 100%;
@@ -202,5 +203,15 @@ background: rgba(255, 223, 0, 0.05);
 }
 .a-width{
     width: 90%;
+}
+.f-display{
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+}
+footer{
+    background-color: rgb(225, 236, 246);
+    height: 50px;
+    
 }
 
