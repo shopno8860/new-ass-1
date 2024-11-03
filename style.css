@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    f font-family: "Azeret Mono", monospace;
+    font-family: "Azeret Mono", monospace;
 }
 .head{
     width: 100%;
@@ -65,7 +65,7 @@ button{
     font-size: 10px;
 }
 .h-content .item h1{
-    font-size: 30px;
+    font-size: 25px;
 }
 header{
     margin-bottom: 30px;
@@ -104,7 +104,7 @@ main>.container{
     width: 50%;
 }
 .m-content{
-    height:300px;
+    height:400px;
     background-color: white;
     padding: 30px 50PX;
     border-radius: 5px;
@@ -155,6 +155,8 @@ main>.container{
 }
 .html a{
     text-decoration: none;
+    color: black;
+    font-weight: bold;
 }
 .b-html{
     border-radius: 16px;
